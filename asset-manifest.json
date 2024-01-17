@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-uno/static/css/main.f855e6bc.css",
+    "main.js": "/project-uno/static/js/main.95ed8b4a.js",
+    "static/js/787.2bcfe56d.chunk.js": "/project-uno/static/js/787.2bcfe56d.chunk.js",
+    "static/media/logo.svg": "/project-uno/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project-uno/index.html",
+    "main.f855e6bc.css.map": "/project-uno/static/css/main.f855e6bc.css.map",
+    "main.95ed8b4a.js.map": "/project-uno/static/js/main.95ed8b4a.js.map",
+    "787.2bcfe56d.chunk.js.map": "/project-uno/static/js/787.2bcfe56d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.95ed8b4a.js"
+  ]
+}
